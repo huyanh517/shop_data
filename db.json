@@ -1164,5 +1164,6 @@
                 "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
             ]
         }
-    ]
+    ],
+    "cart": []
 }
